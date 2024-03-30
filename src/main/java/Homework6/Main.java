@@ -1,7 +1,5 @@
 package Homework6;
 
-import Seminar6.Task3.Cat;
-
 import java.util.*;
 import java.util.stream.Collectors;
 
